@@ -1,0 +1,18 @@
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.post {
+    border: 2px solid green;
+    padding: auto;
+    margin: 10px;
+}
+
+.fit_size {
+    margin: 20px;
+}
+
+.searching {
+    margin-top: 10px;
+}
